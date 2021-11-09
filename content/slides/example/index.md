@@ -44,12 +44,20 @@ title: Slides
 Inline code: `variable`
 
 Code block:
+<<<<<<< HEAD
 # ```python{
 # porridge = "blueberry"
 # if porridge == "blueberry":
 #     print("Eating...")
 # }
 # ```
+=======
+```python
+porridge = "blueberry"
+if porridge == "blueberry":
+    print("Eating...")
+```
+>>>>>>> c25fbb752a6545a4d98b8a7c75ce552a148bc1a9
 
 ---
 
@@ -59,9 +67,15 @@ In-line math: $x + y = z$
 
 Block math:
 
+<<<<<<< HEAD
 $$
 f\left( x \right) = \;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
 $$
+=======
+#$$
+#f\left( x \right) = \;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+#$$
+>>>>>>> c25fbb752a6545a4d98b8a7c75ce552a148bc1a9
 
 ---
 

@@ -2,5 +2,10 @@
 .Rhistory
 .RData
 .Ruserdata
+<<<<<<< HEAD
 resources/
 public/
+=======
+.resources/
+.public/
+>>>>>>> c25fbb752a6545a4d98b8a7c75ce552a148bc1a9
